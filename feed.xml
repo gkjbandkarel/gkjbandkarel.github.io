@@ -2,28 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:263972F3-E98D-4FA2-B319-B9DA7D8F01E8</id>
  <title>Page list Atom feed</title>
- <updated>2017-12-30T16:09:06+07:00</updated>
+ <updated>2017-12-30T16:14:26+07:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
   <name>iWeb</name>
  </author>
  <entry>
-  <id>urn:iweb:6841DD73-902D-4EB0-BAB9-F962489B6DCF</id>
-  <title>Blank</title>
-  <title xmlns="urn:iweb:">Blank</title>
-  <in-navbar xmlns="urn:iweb:">6841DD73-902D-4EB0-BAB9-F962489B6DCF</in-navbar>
-  <link rel="alternate" href="Blank.html"/>
-  <updated>2017-12-30T16:09:06.001+07:00</updated>
-  <content>Blank</content>
- </entry>
- <entry>
-  <id>urn:iweb:53625466-4E51-414D-9B3F-2FDD793D6CDE</id>
+  <id>urn:iweb:501197AA-81F4-468F-BAF0-414785A3FE71</id>
   <title>Welcome</title>
   <title xmlns="urn:iweb:">Welcome</title>
-  <in-navbar xmlns="urn:iweb:">53625466-4E51-414D-9B3F-2FDD793D6CDE</in-navbar>
+  <in-navbar xmlns="urn:iweb:">501197AA-81F4-468F-BAF0-414785A3FE71</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2017-12-30T16:09:06.002+07:00</updated>
+  <updated>2017-12-30T16:14:26.001+07:00</updated>
   <content>Welcome</content>
  </entry>
 </feed>
